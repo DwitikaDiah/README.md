@@ -3,6 +3,7 @@ Used Tags & Syntaxes: Saya menyelesaikan tugas-tugas di Week 1 - Phase 0 ini, di
 - Membuat halaman HTML sederhana
 - Menghias HTML dengan CSS
 - Membuat Layout dan Desain Halaman Web dengan CSS
+
 About Me:
 Nama Lengkap: Dwitika Diah Pangestuti
 Nama Panggilan: Tika
